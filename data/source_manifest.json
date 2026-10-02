@@ -1,0 +1,35 @@
+{
+  "retrieved_utc": "2026-09-30",
+  "files": [
+    {
+      "filename": "DemandCharge.csv",
+      "url": "https://raw.githubusercontent.com/sushilsilwal3/UCSD-Microgrid-Database/master/Data%20Files/DemandCharge.csv",
+      "sha256": "145841757211384b253a6947c1c5e3aa493b39bcfed9ab09d652f28bafb98b38",
+      "size_bytes": 3970412
+    },
+    {
+      "filename": "CenterHall.csv",
+      "url": "https://raw.githubusercontent.com/sushilsilwal3/UCSD-Microgrid-Database/master/Data%20Files/BuildingLoad/CenterHall.csv",
+      "sha256": "ddfca6f8a82c31f2566c2e2b03d757ca326539e48b422660590da6fee7d24792",
+      "size_bytes": 4487575
+    },
+    {
+      "filename": "MusicBuilding.csv",
+      "url": "https://raw.githubusercontent.com/sushilsilwal3/UCSD-Microgrid-Database/master/Data%20Files/BuildingLoad/MusicBuilding.csv",
+      "sha256": "dfe3cec467e2482dd5da7b6b7dc28bbefecc9d80a570d5e8ef8c22d1b8ba5423",
+      "size_bytes": 3770394
+    },
+    {
+      "filename": "county_electricity.xlsx",
+      "url": "https://www.energy.ca.gov/filebrowser/download/8144?fid=8144",
+      "sha256": "142a104d6deebc5c789c1dfcc51387f8681891e4e300f787510cf8b7c23d67ca",
+      "size_bytes": 585826
+    },
+    {
+      "filename": "county_electricity_monthly.xlsx",
+      "url": "https://www.energy.ca.gov/filebrowser/download/9968?fid=9968",
+      "sha256": "5d0fe1537bb9ba2d7b4df78f4a219ca0e09e2754e182c27ddf5a5183b997944b",
+      "size_bytes": 3319456
+    }
+  ]
+}

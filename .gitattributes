@@ -1,0 +1,4 @@
+# Preserve downloaded source files byte-for-byte for provenance checks.
+data/raw/** -text linguist-vendored
+# Keep generated reports and figures out of language statistics.
+outputs/** linguist-generated

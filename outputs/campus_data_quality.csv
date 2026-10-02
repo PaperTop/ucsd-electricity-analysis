@@ -1,0 +1,3 @@
+series,year,expected_readings,valid_readings_after_dedup,missing_readings,conflicting_timestamp_groups_averaged,coverage_percent
+UCSD TotalCampusLoad,2018,35040,35040,0,0,100
+UCSD TotalCampusLoad,2019,35040,35040,0,4,100

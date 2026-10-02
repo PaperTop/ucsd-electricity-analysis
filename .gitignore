@@ -1,0 +1,8 @@
+.venv/
+.mpl-cache/
+__pycache__/
+.DS_Store
+.local-notes/
+.env
+.env.*
+*.py[cod]

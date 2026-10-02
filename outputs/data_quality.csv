@@ -1,0 +1,7 @@
+building,year,expected_readings,valid_readings,missing_readings,negative_readings,coverage_percent
+Center Hall,2017,35040,35040,0,0,100.0
+Center Hall,2018,35040,35040,0,0,100.0
+Center Hall,2019,35040,35040,0,0,100.0
+Music Building,2017,35040,35040,0,0,100.0
+Music Building,2018,35040,35040,0,0,100.0
+Music Building,2019,35040,35040,0,0,100.0
